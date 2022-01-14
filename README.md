@@ -11,7 +11,14 @@
      
      
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p>
+<img alt="Android" src ="https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=flat-square&logo=ANDROID&logoColor=white"/><img alt="Flutter" src ="https://img.shields.io/badge/flutter-02569B.svg?&style=flat-square&logo=flutter&logoColor=white"/>
+    <img alt="Java" src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
+      <img alt="Kotlin" src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
+    <img alt="Kotlin" src ="https://img.shields.io/badge/dart-0175C2.svg?&style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
 
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejun2&show_icons=true&locale=en&layout=compact" alt="sejun2" /></p>
