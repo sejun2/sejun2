@@ -3,12 +3,13 @@
 
 
 
-
-- I’m currently interesting in **flutter**
+    
+    I’m currently interesting in flutter
+    I still have a long way to go, but I'm working on it. ⤴️
+         
     
     
-    &nbsp;
-     
+        
      
 <h3 align="left">Languages and Tools:</h3>
 
