@@ -19,6 +19,8 @@
     <img alt="Java" src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
       <img alt="Kotlin" src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
     <img alt="Kotlin" src ="https://img.shields.io/badge/dart-0175C2.svg?&style=flat-square&logo=dart&logoColor=white"/>
+    <img alt="Javascript" src ="https://img.shields.io/badge/javascript-0175C2.svg?&style=flat-square&logo=javscriptt&logoColor=white"/>
+    <img alt="Typescript" src ="https://img.shields.io/badge/typescript-0175C2.svg?&style=flat-square&logo=typescriptt&logoColor=white"/>
 </p>
 
 
