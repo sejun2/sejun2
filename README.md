@@ -4,7 +4,7 @@
 
 
     
-    I’m currently interesting in flutter
+    I’m currently interesting in Mobile
     I still have a long way to go, but I'm working on it. ⤴️
          
     
