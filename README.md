@@ -15,5 +15,8 @@
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sejun2&show_icons=true&theme=dracula)
 
+### 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejun2&layout=compact&theme=dracula"/>
+
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:qpfjf56@gmail.com)
