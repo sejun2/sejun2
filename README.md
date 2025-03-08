@@ -9,7 +9,7 @@
 
 ### 📱 Mobile Development
 - **Android Native**: Building robust and performant Android applications using Kotlin and Java
-- **Cross-Platform**: Developing multi-platform applications with Flutter and Dart
+- **Cross-Platform**: Developing multi-platform applications with Flutter and Kotlin Multi Platform
 - **Modern Android**: Implementing latest Android practices including Jetpack Compose, Material Design, and Clean Architecture
 
 ### 📊 GitHub Stats
