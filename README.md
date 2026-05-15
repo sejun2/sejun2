@@ -10,7 +10,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
+![CMP](https://img.shields.io/badge/CMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ---
 
 ### Mobile
