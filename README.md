@@ -36,3 +36,8 @@
 | <img width="48" height="48" align="center" alt="maricon" src="https://github.com/user-attachments/assets/cbc80416-7bc7-4a64-8336-163882aed5b7" /> | MeasureAR Kit |     An app measuring objects using AR core & Depth API with diverse modes | Android native | [Android](https://play.google.com/store/apps/details?id=dev.sejun2.measurear) | 
 | <img width="48" height="48" alt="reptilyicon" src="https://github.com/user-attachments/assets/1f5a9f38-3cb8-4d49-91a2-95b459c5cd4f" /> | Reptily - Reptile tracking app | An app supports caring and tracking reptiles | Android native | [Android](https://play.google.com/store/apps/details?id=dev.sejun2.reptily) |
 | <img width="48" height="48" alt="jollamanicon" src="https://github.com/user-attachments/assets/da8fae1d-7d74-4cb1-827b-045954ecd070" /> | Jollaman poop dodge | Poop dodge game app |Flutter with Flame | [Android](https://play.google.com/store/apps/details?id=dev.sejun2.jollaman) | 
+
+#### Web apps
+| App name                                            | Description | Framework | Uri |
+ | --------------------------------------------------- | ----------- | -------- | ------  |
+ | Jollaman poop dodge web app | Jollaman poop dodge game web app with NextJS | NextJS | [Jollaman poop dodge](https://jollaman.lol) | 
