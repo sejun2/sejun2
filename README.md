@@ -41,3 +41,4 @@
 | App name                                            | Description | Framework | Uri |
  | --------------------------------------------------- | ----------- | -------- | ------  |
  | Jollaman poop dodge web app | Jollaman poop dodge game web app with NextJS | NextJS | [Jollaman poop dodge](https://jollaman.lol) | 
+ | Reptily web | Reptily web - Reptile tracking web dashboard | NextJS | [Reptily web](https://reptily.cc) | 
